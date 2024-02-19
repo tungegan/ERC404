@@ -1,0 +1,11 @@
+Deployer: 0xF93535B684235A5cC3cAC5852195831f6CFd4ADc
+
+#contract address
+Deployed to: 0x67931A8980d7F65513381011FA448cAE02fE749D
+Transaction hash: 0x325db69372234e0105554bb997d630772c9265feef5a39cc97e315828d7bf395
+
+#get abi
+contract: https://goerli.lineascan.build/address/0x67931a8980d7f65513381011fa448cae02fe749d#readContract
+
+#infura api
+https://linea-goerli.infura.io/v3/INFURA_API_KEY
